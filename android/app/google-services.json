@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1091192539175",
+    "project_id": "ev-charging-management-system",
+    "storage_bucket": "ev-charging-management-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091192539175:android:4cd1c1a0c88671a819e602",
+        "android_client_info": {
+          "package_name": "com.flutterflow.edriveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091192539175-mkd9a82e437m13bg073gejdl6gq4m1po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0exzbbUs-c5o3Z4huIXUkvRu0WOAXiG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091192539175-bqr5drg0l5mmof6g9blokkes9gt5frvu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091192539175-u3r07rf3u6r65kgndqeqd5th92i36d09.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.edriveapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
